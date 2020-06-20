@@ -4,6 +4,7 @@ html,body {
 	height: 100%;
 }
 body{
+        background: #ffffff;
 	background-size: 0.2em 100%;
 	font: 10.5em Open Sans, Impact;
 	text-transform: uppercase;
